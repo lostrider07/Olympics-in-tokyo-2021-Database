@@ -1,4 +1,4 @@
-The datasets used in this project is revised and updated by myself. The original source of these datasets are down below.
+The datasets used in this project are revised and updated by myself. The original source of these datasets are down below.
 
 Original Source for the datasets :  https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo .
 
